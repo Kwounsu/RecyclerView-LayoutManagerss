@@ -1,7 +1,11 @@
 <resources>
-    <string name="app_name">RecyclerView LayoutManagers</string>
+    <string name="app_name">Grocery App</string>
     <string name="linearlayout">Linear</string>
     <string name="gridlayout">Grid</string>
     <string name="staggeredlayout">Staggered</string>
     <string name="product_image">Product Image</string>
+    <string name="detail">Detail</string>
+    <string name="splash_image">splash_image</string>
+    <string name="description">Description:</string>
+    <string name="mrp">MRP:</string>
 </resources>

@@ -36,7 +36,8 @@ class MainActivity : AppCompatActivity() {
         }
 
         staggeredButton.setOnClickListener {
-            val layoutManager = StaggeredGridLayoutManager(2, StaggeredGridLayoutManager.VERTICAL)
+            val layoutManager =
+                StaggeredGridLayoutManager(2, StaggeredGridLayoutManager.VERTICAL)
             view.layoutManager = layoutManager
         }
     }
